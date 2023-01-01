@@ -32,3 +32,7 @@
 ![Union of Soviet Socialist Republics (Nikita Khrushchev)](https://user-images.githubusercontent.com/90443659/210169943-c526f7a7-315b-4444-b9c4-f02e7f6c445b.jpg)
 ![Union of Soviet Socialist Republics (Valery Sablin)](https://user-images.githubusercontent.com/90443659/210169944-baa60953-2bab-4f12-a355-1d194da3b35a.jpg)
 ![United Soviet Federation (Andrei Zhdanov)](https://user-images.githubusercontent.com/90443659/210169947-9c270a7e-bded-49fb-a784-1482c5fb48d0.jpg)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
